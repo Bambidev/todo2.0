@@ -2,11 +2,12 @@ import styled from "styled-components"
 
 export const Container = styled.div`
   display: flex;
-  gap: 10px;
+  gap: 8px;
 
   span {
     border-radius: 50%;
-    width: 10px;
+    width: 13px;
+    height: 13px;
   }
 `
 
